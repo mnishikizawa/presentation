@@ -12,3 +12,8 @@
 ### 全長9600km!これが日米間の新海底ケーブル「Unity」の陸揚げ作業だ
 [http://trendy.nikkeibp.co.jp/article/column/20091109/1030118/]
 
+### インターネットの基礎
+[https://www.nic.ad.jp/ja/basics/]
+
+### インターネット歴史年表
+[https://www.nic.ad.jp/timeline/]
